@@ -1,6 +1,5 @@
 import axios from "axios";
 
-// const API_URL = "https://threew-apis.onrender.com/api";
 const API_URL = "https://restau-hef3.onrender.com";
 
 // Get foods
