@@ -1,0 +1,20 @@
+
+
+.link{
+  text-decoration: none;
+  color: #F1592A;
+  background-color: white;
+  border-radius: 2px;
+  padding: 5px 15px;
+  font-size: small;
+  font-family: sans-serif;
+  transition: linear 0.2s;
+  border: 1px solid #F1592A;
+  font-weight: bold;
+}
+
+.link:hover{
+  background-color: #F1592A;
+  border: 1px solid white;
+  color: white;
+}
